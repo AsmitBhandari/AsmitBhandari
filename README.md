@@ -125,7 +125,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AsmitBhandari/AsmitBhandari/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/AsmitBhandari/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
