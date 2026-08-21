@@ -230,7 +230,7 @@ Current areas of exploration:
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect to me 
 
 <p align="center">
   <a href="https://portfolio.asmitlabs.me">
